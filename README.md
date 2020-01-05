@@ -1,4 +1,4 @@
-A userscript that unblur Scribd document pages for unpaid visitors.
+Unblur Scribd image page with simple userscript.
 
 ### Getting started
 
